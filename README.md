@@ -2,7 +2,7 @@
 
 The goal of this lab was to implement a visual interface for a Turing Machine simulator.
 
-![Demo](demo.mp4)
+![](demo.mp4)
 
 ## Introduction to Turing Machines 🧠
 
