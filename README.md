@@ -30,8 +30,8 @@ Despite its simplicity, Turing Machines can simulate any computer algorithm, mak
 
 1. Clone the repository:
     ```bash
-    git clone <repository-url>
-    cd <repository-folder>
+    git clone https://github.com/undeluro/uni-yatumas.git
+    cd uni-yatumas
     ```
 
 2. Create a virtual environment:
