@@ -1,8 +1,7 @@
 # Turing Machine Simulator 🖥️ (Lab from uni course)
 
 The goal of this lab was to implement a visual interface for a Turing Machine simulator.
-
-![Demo](demo.mp4)
+You can watch the demo [here](demo.mp4)
 
 ## Introduction to Turing Machines 🧠
 
@@ -79,6 +78,7 @@ python yatumas.py -m examples/add_one.tm -i 0.1 10111
 ## Contributing 🤝
 
 Contributions are welcome! Feel free to submit issues or pull requests to improve the project.
+Also, thanks to @Kaper432 for helping me with the view part.
 
 ## License 📄
 
