@@ -1,10 +1,10 @@
-# Turing Machine Simulator 🖥️ (Lab from uni course)
+# Turing Machine Simulator (Lab from uni course)
 
 The goal of this lab was to implement a visual interface for a Turing Machine simulator.
 
 https://github.com/user-attachments/assets/cfba4b97-314b-406f-9eed-d91d513e60ac
 
-## Introduction to Turing Machines 🧠
+## Introduction to Turing Machines
 
 A Turing Machine is a mathematical model of computation introduced by Alan Turing in 1936. It consists of:
 - An infinite tape divided into cells, each containing a symbol
@@ -14,24 +14,23 @@ A Turing Machine is a mathematical model of computation introduced by Alan Turin
 
 Despite its simplicity, Turing Machines can simulate any computer algorithm, making them foundational to computer science and computational theory.
 
-## Features ✨
+## Features
 
 - **Customizable Turing Machines**: Define your own Turing Machines using configuration files.
 - **Step-by-Step Simulation**: Visualize the execution of the machine step by step.
 - **Terminal-Based Interface**: Runs directly in the terminal with a clean and interactive display.
 - **Extensible Design**: Easily add new features or modify existing ones.
 
-## Requirements 📋
+## Requirements
 
 - Python 3.11 or higher
 - Required Python packages (listed in `requirements.txt`)
 
-## Installation ⚙️
+## Installation
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/undeluro/uni-yatumas.git
-    cd uni-yatumas
+    git clone https://github.com/undeluro/uni-yatumas.git && cd uni-yatumas
     ```
 
 2. Create a virtual environment:
@@ -45,7 +44,7 @@ Despite its simplicity, Turing Machines can simulate any computer algorithm, mak
     pip install -r requirements.txt
     ```
 
-## Usage 🚀
+## Usage
 
 Run the simulator with the following command:
 
@@ -62,7 +61,7 @@ Example:
 python yatumas.py -m examples/add_one.tm -i 0.1 10111
 ```
 
-## Project Structure 📁
+## Project Structure
 
 ```
 .
@@ -76,11 +75,7 @@ python yatumas.py -m examples/add_one.tm -i 0.1 10111
 └── README.md                       # Project documentation
 ```
 
-## Contributing 🤝
+## Contributing
 
 Contributions are welcome! Feel free to submit issues or pull requests to improve the project.
 Also, thanks to @Kapek432 for helping me with the view part.
-
-## License 📄
-
-This project is licensed under the MIT License. See `LICENSE` for details.
