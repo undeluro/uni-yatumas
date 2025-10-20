@@ -2,7 +2,7 @@
 
 The goal of this lab was to implement a visual interface for a Turing Machine simulator.
 
-You can watch the demo [here](demo.mp4)
+https://github.com/user-attachments/assets/cfba4b97-314b-406f-9eed-d91d513e60ac
 
 ## Introduction to Turing Machines 🧠
 
